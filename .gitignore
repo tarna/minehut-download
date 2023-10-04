@@ -1,0 +1,20 @@
+# ENV
+*.env
+!example.env
+
+# Typescript
+build/
+
+# NodeJS
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+
+yarn.lock
+.yarn/
+
+#IntelliJ
+.idea/
+
+# Databases
+*.db
