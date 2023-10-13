@@ -41,3 +41,5 @@ If you are receiving an error, recheck the following:
 - You have the correct authorization details.
 - The folder exists on your server.
 - You own the server you are trying to download from.
+
+> There is currently an issue where users using a windows computer are getting an error of "cannot find module 'registry-js'". This is a known issue and will be fixed in the future.
